@@ -20,5 +20,5 @@ _cgo_export.*
 _testmain.go
 
 *.exe
-go-blog-example
+go_blog
 tags

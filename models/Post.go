@@ -7,6 +7,6 @@ type Post struct {
 	ContentMarkdown string
 }
 
-func NewPost(id, title, contentHtml, contentMarkdown  string) *Post {
+func NewPost(id, title, contentHtml, contentMarkdown string) *Post {
 	return &Post{id, title, contentHtml, contentMarkdown}
 }
